@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14599" started-at="2017-03-07T23:30:50Z" finished-at="2017-03-07T23:31:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14599" started-at="2017-03-07T23:30:50Z" finished-at="2017-03-07T23:31:05Z">
+      <class name="website.VotingSystem.training.tryNewStuffOut">
+        <test-method status="PASS" signature="testDistricts(java.lang.String, java.lang.String)[pri:0, instance:website.VotingSystem.training.tryNewStuffOut@8bd1b6a]" name="testDistricts" duration-ms="8290" started-at="2017-03-08T01:30:51Z" data-provider="TestDataProvider" finished-at="2017-03-08T01:30:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Naujamiesčio]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Vytenio]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDistricts -->
+        <test-method status="PASS" signature="testDistricts(java.lang.String, java.lang.String)[pri:0, instance:website.VotingSystem.training.tryNewStuffOut@8bd1b6a]" name="testDistricts" duration-ms="6292" started-at="2017-03-08T01:30:59Z" data-provider="TestDataProvider" finished-at="2017-03-08T01:31:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Senamiesčio]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Birutės]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDistricts -->
+      </class> <!-- website.VotingSystem.training.tryNewStuffOut -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
