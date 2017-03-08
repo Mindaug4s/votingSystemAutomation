@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="14599" started-at="2017-03-07T23:30:50Z" finished-at="2017-03-07T23:31:05Z">
+  <suite name="Default suite" duration-ms="9640" started-at="2017-03-08T10:14:05Z" finished-at="2017-03-08T10:14:15Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="14599" started-at="2017-03-07T23:30:50Z" finished-at="2017-03-07T23:31:05Z">
+    <test name="Default test" duration-ms="9640" started-at="2017-03-08T10:14:05Z" finished-at="2017-03-08T10:14:15Z">
       <class name="website.VotingSystem.training.tryNewStuffOut">
-        <test-method status="PASS" signature="testDistricts(java.lang.String, java.lang.String)[pri:0, instance:website.VotingSystem.training.tryNewStuffOut@8bd1b6a]" name="testDistricts" duration-ms="8290" started-at="2017-03-08T01:30:51Z" data-provider="TestDataProvider" finished-at="2017-03-08T01:30:59Z">
+        <test-method status="PASS" signature="testDistricts(java.lang.String, java.lang.String)[pri:0, instance:website.VotingSystem.training.tryNewStuffOut@4b9e13df]" name="testDistricts" duration-ms="5220" started-at="2017-03-08T12:14:05Z" data-provider="TestDataProvider" finished-at="2017-03-08T12:14:10Z">
           <params>
             <param index="0">
               <value>
@@ -23,7 +23,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testDistricts -->
-        <test-method status="PASS" signature="testDistricts(java.lang.String, java.lang.String)[pri:0, instance:website.VotingSystem.training.tryNewStuffOut@8bd1b6a]" name="testDistricts" duration-ms="6292" started-at="2017-03-08T01:30:59Z" data-provider="TestDataProvider" finished-at="2017-03-08T01:31:05Z">
+        <test-method status="PASS" signature="testDistricts(java.lang.String, java.lang.String)[pri:0, instance:website.VotingSystem.training.tryNewStuffOut@4b9e13df]" name="testDistricts" duration-ms="4405" started-at="2017-03-08T12:14:10Z" data-provider="TestDataProvider" finished-at="2017-03-08T12:14:15Z">
           <params>
             <param index="0">
               <value>
